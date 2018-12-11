@@ -1,2 +1,4 @@
-# mvp
-mindsync.ai platform MVP
+# mindsync.ai minimum viable product
+
+mindsync.ai platform MVP is under development
+
